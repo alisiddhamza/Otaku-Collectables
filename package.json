@@ -23,10 +23,15 @@
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
     "express-formidable": "^1.2.0",
+    "js-tokens": "^9.0.0",
     "jsonwebtoken": "^9.0.2",
+    "loose-envify": "^1.4.0",
     "mongoose": "^8.0.3",
     "mongoose-timestamp": "^0.6.0",
     "morgan": "^1.10.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "scheduler": "^0.23.0",
     "slugify": "^1.6.6"
   }
 }
